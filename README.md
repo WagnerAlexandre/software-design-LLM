@@ -1,6 +1,6 @@
 # JetUML (Edição JavaFX)
 
-> **Aviso de Pesquisa e Origem do Código:** Este projeto foi **integralmente gerado por um Modelo de Linguagem Grande (LLM — Large Language Model)** para **fins de pesquisa acadêmica e experimental** em Engenharia de Software, avaliação de geração de código assistida por IA e arquitetura de aplicações desktop em Java/JavaFX. O software é uma reimplementação limpa baseada em especificações de requisitos funcionais e não funcionais (RF01–RF44, RNF01–RNF03) inspiradas no editor [JetUML](https://www.jetuml.org/).
+> **Aviso de Pesquisa e Origem do Código:** Este projeto foi **integralmente gerado por um Modelo de Linguagem Grande (LLM — Large Language Model)** para **fins de pesquisa acadêmica e experimental** em Engenharia de Software, avaliação de geração de código assistida por IA e arquitetura de aplicações desktop em Java/JavaFX. O software é uma reimplementação limpa baseada em especificações de requisitos funcionais e não funcionais (RF01–RF44, RNF01–RNF03) inspiradas no editor [JetUML](https://github.com/prmr/JetUML).
 
 Editor desktop leve e interativo para modelagem de diagramas UML, desenvolvido em **Java 21** e **JavaFX 21** com gerenciamento de dependências via **Apache Maven**.
 
