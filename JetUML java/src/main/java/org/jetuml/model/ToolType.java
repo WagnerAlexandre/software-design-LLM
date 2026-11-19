@@ -98,6 +98,7 @@ public enum ToolType {
     private final String displayName;
     private final Category category;
     private final String verboseDescription;
+
     ToolType(String displayName, Category category, String verboseDescription) {
         this.displayName = displayName;
         this.category = category;

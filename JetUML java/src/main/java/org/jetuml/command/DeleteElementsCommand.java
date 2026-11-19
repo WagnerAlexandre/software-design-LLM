@@ -20,6 +20,7 @@ public class DeleteElementsCommand implements Command {
     private final List<DeletedNodeRecord> deletedNodes = new ArrayList<>();
     private final List<DeletedEdgeRecord> deletedEdges = new ArrayList<>();
     private boolean initialized = false;
+
     public DeleteElementsCommand(Diagram diagram, Set<DiagramElement> elementsToDelete) {
         this.diagram = diagram;
         prepareDeletionSnapshot(elementsToDelete);

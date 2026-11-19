@@ -49,6 +49,7 @@ public class DiagramCanvasView extends Canvas {
     private int accumulatedDragDx = 0;
     private int accumulatedDragDy = 0;
     private Node edgeStartNode;
+
     public DiagramCanvasView(
             Diagram diagram,
             CommandManager commandManager,

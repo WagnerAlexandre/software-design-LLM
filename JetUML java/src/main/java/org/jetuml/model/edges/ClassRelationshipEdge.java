@@ -15,6 +15,7 @@ public class ClassRelationshipEdge extends AbstractEdge {
     private String startLabel = "";
     private String middleLabel = "";
     private String endLabel = "";
+
     public ClassRelationshipEdge(RelationshipKind kind, Node startNode, Node endNode) {
         super(startNode, endNode);
         this.kind = kind;
