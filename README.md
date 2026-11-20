@@ -13,7 +13,7 @@ O objetivo deste repositório é investigar o impacto do uso de Grandes Modelos 
 
 | Sistema | Linguagem | Branch | Acesso Direto | Descrição |
 | :--- | :--- | :--- | :--- | :--- |
-| **Documentação** | — | `main` *(default)* | [Ver branch]() | Documentação geral e relatório técnico do estudo. |
+| **Documentação** | — | `main` *(default)* | [Ver branch](https://github.com/WagnerAlexandre/software-design-LLM/tree/main) | Documentação geral e relatório técnico do estudo. |
 | **Solitaire** | Python | `Solitaire-Python` | [Ver branch](https://github.com/WagnerAlexandre/software-design-LLM/tree/Solitaire-Python) | Implementação gerada via **ChatGPT** com arquitetura em camadas (estilo MVC sem *controller* explícito) e padrões *Observer* e *Command*. |
 | **Solitaire** | Java | `Solitaire-Java` | [Ver branch](https://github.com/WagnerAlexandre/software-design-LLM/tree/Solitaire-Java) | Implementação gerada via **Gemini Pro** (20 classes em pacote único `solitaire`, interface Swing e hierarquia polimórfica `CardPile`). |
 | **JetUML** | Python | `JetUMLPython` | [Ver branch](https://github.com/WagnerAlexandre/software-design-LLM/tree/JetUMLPython) | Implementação monolítica (~3.000 linhas em `jetuml.py`) utilizando `tkinter`, *snapshots* para *Undo/Redo* e pipeline `RenderCommand`. |
